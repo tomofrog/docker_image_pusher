@@ -12,3 +12,4 @@ linuxserver/calibre-web
 linuxserver/freshrss
 ubuntu
 whyour/qinglong
+netdata/netdata
