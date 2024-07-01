@@ -7,10 +7,7 @@ snowdreamtech/frpc
 snowdreamtech/frps
 yidadaa/chatgpt-next-web
 halcyonazure/lsky-pro-docker
-homeassistant/home-assistant
 linuxserver/calibre-web
-linuxserver/freshrss
 ubuntu
 whyour/qinglong
 netdata/netdata
-metatube/metatube-server
