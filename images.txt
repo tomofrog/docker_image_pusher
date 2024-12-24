@@ -12,4 +12,5 @@ ubuntu
 whyour/qinglong
 netdata/netdata
 hanxi/xiaomusic
+linuxserver/swag
 
