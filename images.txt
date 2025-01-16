@@ -13,4 +13,5 @@ whyour/qinglong
 netdata/netdata
 hanxi/xiaomusic
 linuxserver/swag
+idootop/mi-gpt
 
