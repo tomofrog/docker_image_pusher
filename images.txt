@@ -14,4 +14,4 @@ netdata/netdata
 hanxi/xiaomusic
 linuxserver/swag
 idootop/mi-gpt
-
+lanzhihong/stock-scanner
