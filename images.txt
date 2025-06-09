@@ -16,3 +16,4 @@ linuxserver/swag
 idootop/mi-gpt
 lanzhihong/stock-scanner
 iyuucn/iyuuplus
+
