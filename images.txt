@@ -17,3 +17,4 @@ idootop/mi-gpt
 lanzhihong/stock-scanner
 iyuucn/iyuuplus
 xhofe/alist:v3.40.0
+bestzwei/libretv
