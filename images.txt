@@ -17,3 +17,5 @@ idootop/mi-gpt
 lanzhihong/stock-scanner
 iyuucn/iyuuplus
 hectorqin/reader
+langgenius/dify-web
+langgenius/dify-api
