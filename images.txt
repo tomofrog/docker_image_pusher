@@ -7,16 +7,10 @@ snowdreamtech/frpc
 snowdreamtech/frps
 yidadaa/chatgpt-next-web
 halcyonazure/lsky-pro-docker
-linuxserver/calibre-web
 ubuntu
 whyour/qinglong
-netdata/netdata
 hanxi/xiaomusic
 linuxserver/swag
-idootop/mi-gpt
-lanzhihong/stock-scanner
-iyuucn/iyuuplus
-hectorqin/reader
 postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
