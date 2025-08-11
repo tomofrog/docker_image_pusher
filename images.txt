@@ -17,10 +17,11 @@ idootop/mi-gpt
 lanzhihong/stock-scanner
 iyuucn/iyuuplus
 hectorqin/reader
-langgenius/dify-web:release-e-1.7.1
-langgenius/dify-api:release-e-1.7.1
+langgenius/dify-web:main
+langgenius/dify-api:main
 langgenius/dify-web:0.6.8
 langgenius/dify-api:0.6.8
+langgenius/dify-plugin-daemon:main-local-linux-amd64
 postgres:latest
 postgres:15-alpine
 redis:latest
