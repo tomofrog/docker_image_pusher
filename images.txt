@@ -21,7 +21,10 @@ langgenius/dify-web:release-e-1.7.1
 langgenius/dify-api:release-e-1.7.1
 langgenius/dify-web:0.6.8
 langgenius/dify-api:0.6.8
+postgres:latest
 postgres:15-alpine
+redis:latest
 redis:6-alpine
+semitechnologies/weaviate:latest
 semitechnologies/weaviate:1.19.0
 nginx:latest
