@@ -1,3 +1,13 @@
+nyanmisaka/jellyfin:latest-legacy
+advplyr/audiobookshelf
+gotson/komga
+linuxserver/qbittorrent
+snowdreamtech/frpc
+snowdreamtech/frps
+ubuntu
+whyour/qinglong
+hanxi/xiaomusic
+linuxserver/swag
 postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
@@ -6,5 +16,3 @@ langgenius/dify-api:1.4.3
 langgenius/dify-web:1.4.3
 langgenius/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.1.2-local
-ubuntu/squid:latest
-langgenius/qdrant:v1.7.3
